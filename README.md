@@ -1,12 +1,15 @@
-# Dog-Breed-classification-project_Udacity
-This project entails building a deep learning model using CNN from scratch and through transfer learning for the purpose of performing dog breed classification and further building an algorithm that incorporates this model as a tool for Dog identification.
-
 
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
 [image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+
+
+
+
+# Dog-Breed-classification-project_Udacity
+This project entails building a deep learning model using CNN from scratch and through transfer learning for the purpose of performing dog breed classification and further building an algorithm that incorporates this model as a tool for Dog identification.
 
 
 ## Project Overview
